@@ -8,6 +8,7 @@
 
 This project was developed using:
 - R version 4.3.1
+
 Main packages:
 - readr (2.1.4)
 - dplyr (1.1.4)
@@ -16,7 +17,7 @@ Main packages:
 ## Project Purpose
 The primary goal of this project is to demonstrate the ability to **share and manage research data and workflows** in a transparent and reproducible manner, as required for this assignment. 
 
-Accordingly, the analysis provided here is intentionally kept simple???focusing on generating descriptive statistics???to prioritize the demonstration of the reproducibility workflow (folder structure, version control, and automation via shell script).
+Accordingly, the analysis provided here is intentionally kept simple focusing on generating descriptive statistics to prioritize the demonstration of the reproducibility workflow (folder structure, version control, and automation via shell script).
 
 ##Data Codebook
 
