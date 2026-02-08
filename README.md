@@ -1,3 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sang-wonChoi/reproducible_project_Sangwon_Choi/HEAD)
+
+
+
+
 ## Data Source
 - **Origin**: This project uses the classic [Titanic - Machine Learning from Disaster](https://www.kaggle.com/c/titanic) dataset from Kaggle. 
 - **File**: `data/train.csv` 
