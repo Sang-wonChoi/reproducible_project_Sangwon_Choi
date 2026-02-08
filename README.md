@@ -19,7 +19,7 @@ The primary goal of this project is to demonstrate the ability to **share and ma
 
 Accordingly, the analysis provided here is intentionally kept simple focusing on generating descriptive statistics to prioritize the demonstration of the reproducibility workflow (folder structure, version control, and automation via shell script).
 
-##Data Codebook
+## Data Codebook
 
 The following table describes the variables included in the Titanic dataset used in this project.
 | Variable | Definition | Key |
